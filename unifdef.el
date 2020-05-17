@@ -4,7 +4,7 @@
 
 ;; Author: Anders Lindgren
 ;; Keywords: convenience, languages
-;; Version: 0.0.0
+;; Version: 0.0.1
 ;; Created: 2020-04-25
 ;; URL: https://github.com/Lindydancer/unifdef
 
