@@ -1,3 +1,5 @@
+[![MELPA](https://melpa.org/packages/unifdef-badge.svg)](https://melpa.org/#/unifdef)
+
 # unifdef - Delete code guarded by processor directives
 
 *Author:* Anders Lindgren<br>
