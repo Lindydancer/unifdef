@@ -1,10 +1,10 @@
-;;; unifdef.el --- Delete code guarded by processor directives
+;;; unifdef.el --- Delete code guarded by processor directives. -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020  Anders Lindgren
 
 ;; Author: Anders Lindgren
 ;; Keywords: convenience, languages
-;; Version: 0.0.1
+;; Version: 0.0.2
 ;; Created: 2020-04-25
 ;; URL: https://github.com/Lindydancer/unifdef
 

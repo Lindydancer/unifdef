@@ -1,7 +1,7 @@
 # unifdef - Delete code guarded by processor directives
 
 *Author:* Anders Lindgren<br>
-*Version:* 0.0.1<br>
+*Version:* 0.0.2<br>
 *URL:* [https://github.com/Lindydancer/unifdef](https://github.com/Lindydancer/unifdef)<br>
 
 `unifdef` is a package that can delete code guarded by C-style

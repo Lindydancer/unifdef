@@ -1,4 +1,4 @@
-;;; unifdef-test-simple.el --- Simple tests for unifdef
+;;; unifdef-test-simple.el --- Simple tests for unifdef. -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020  Anders Lindgren
 

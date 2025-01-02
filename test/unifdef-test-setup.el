@@ -1,4 +1,4 @@
-;;; unifdef-test-setup.el --- Setup and execute all tests.
+;;; unifdef-test-setup.el --- Execute unifdef tests. -*- lexical-binding: t; -*-
 
 ;;; Commentary:
 
